@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1712843154 source:/home/maita/dev/TDA/pruebaPilaTDA_Din/main.c
+	"main.h"
+
+1712790473 /home/maita/dev/TDA/pruebaPilaTDA_Din/main.h
+	"../lineasDeTexto/lineasDeTexto.h"
+	"../productos/productos.h"
+	"../pila/pila.h"
+
+1712789001 source:/home/maita/dev/TDA/lineasDeTexto/lineasDeTexto.c
+	"lineasDeTexto.h"
+
+1712721119 source:/home/maita/dev/TDA/productos/productos.c
+	"productos.h"
+
+1712788221 /home/maita/dev/TDA/lineasDeTexto/lineasDeTexto.h
+	<stdio.h>
+	<string.h>
+
+1712699796 /home/maita/dev/TDA/productos/productos.h
+	<stdio.h>
+
+1712843684 source:/home/maita/dev/TDA/pila/pila.c
+	"pila.h"
+
+1712843613 /home/maita/dev/TDA/pila/pila.h
+	<string.h>
+
+1712800589 source:/home/maita/dev/TDA/pilaDinamica/pilaD.c
+

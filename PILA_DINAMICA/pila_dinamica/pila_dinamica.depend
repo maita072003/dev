@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1712972562 source:/home/maita/dev/PILA_DINAMICA/productos/productos.c
+	"productos.h"
+
+1712972657 /home/maita/dev/PILA_DINAMICA/productos/productos.h
+	<stdio.h>
+
+1712972801 source:/home/maita/dev/PILA_DINAMICA/pila_dinamica/main.c
+	"main.h"
+
+1712972691 /home/maita/dev/PILA_DINAMICA/pila_dinamica/main.h
+	<stdio.h>
+	"../productos/productos.h"
+
